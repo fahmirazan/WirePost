@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412365741727",
+    "project_id": "wirepost2",
+    "storage_bucket": "wirepost2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412365741727:android:2be3a093147937e92b8caa",
+        "android_client_info": {
+          "package_name": "com.example.wirepost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412365741727-5cnfb0aijdm8pgmkpabilrejnm8pdpbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYQl_7tUT6882Gqm9RN2PPwVL0x6CJ3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412365741727-5cnfb0aijdm8pgmkpabilrejnm8pdpbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
